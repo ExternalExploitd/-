@@ -6,4 +6,4 @@ ___
 # Update log:
 ___
 ## RELEASE!
-# • **After long awaited time we have finnaly released External.cc i am so sorry for all the delays i hope you guys enjoy the script!**
+### • **After long awaited time we have finnaly released External.cc i am so sorry for all the delays i hope you guys enjoy the script!**
